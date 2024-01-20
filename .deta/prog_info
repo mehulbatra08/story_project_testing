@@ -1,0 +1,1 @@
+{"id":"9fa5ef33-05a8-4bd5-8a0e-1edf9dcb2c7e","space":38049,"runtime":"python3.9","name":"Random_Story_Generator","path":"t8z2mj","project":"d0k3xndc","account":"144798365827","region":"ap-south-1","deps":["flask"],"envs":null,"public":true,"log_level":"off","cron":""}
